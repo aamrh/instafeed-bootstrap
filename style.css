@@ -1,0 +1,27 @@
+#menu1{
+	background-color: #e8e5e5;
+}
+#mydiv > .btn-default {
+  background:transparent;
+}
+.button1:focus{
+	background: #6c757d
+}
+#postbtn{
+	font-size: 14px;
+}
+#heart{
+	color: #a0a0a0
+}
+#variosz
+#variosz:visited {color: white !important;}
+#variosz:focus {color: white !important;}
+#variosz:hover {color: white !important;}
+#variosz:active {color: white !important;}
+
+#varios
+#varios:visited {background-color: gray;}
+#varios:focus {background-color: gray;}
+#varios:hover {background-color: gray;}
+#varios:active {background-color: gray;}
+
